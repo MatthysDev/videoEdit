@@ -1,4 +1,7 @@
 # videoEdit
+
+As a developper i like to discover new features with a video to understand it correctly,
+
  All my video edit with Da Vinci Resolve
  
  You can see the video here : https://www.youtube.com/watch?v=g-WYIRzD85Q&list=PLmewDYeBL3XINJcq8pIsnM0XmDe3xyxdE
